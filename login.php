@@ -1,5 +1,10 @@
-<?php include "./includes/header.php"; ?>
+<?php
+session_start();
 
+
+?>
+
+<?php include "./includes/header.php"; ?>
 
 <div class="container  col-sm-4 mt-5 p-3 shadow-lg">
 	<form action="./scripts/handle_login.php" method="POST">
