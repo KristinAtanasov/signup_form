@@ -67,6 +67,7 @@ try {
 				</ul>
 			</div>
 		</nav>
+
 		<div class="container mt-5 mr-5">
 			<h3>Hello <?= $user_email ?></h3>
 			<h2>You have successfully sign in.</h2>
