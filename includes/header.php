@@ -17,7 +17,7 @@ session_start();
 	<body>
 
 		<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-			<a class="navbar-brand" href="/">Company</a>
+			<a class="navbar-brand" href="/">Company Logo</a>
 			<div class="container justify-content-end">
 				<ul class="navbar-nav">
 					<li class="nav-link">
