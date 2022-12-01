@@ -12,7 +12,7 @@ $user_password = $_SESSION['pswd'];
 
 $db_host       = "localhost";
 $db_name       = "users";
-$db_username   = "root";
+$db_username   = "username";
 $db_password   = "";
 
 $dsn = "mysql:host=$db_host;dbname=$db_name";
